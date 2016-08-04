@@ -1,0 +1,23 @@
+{
+  "name": "teamcity-compose",
+  "version": "1.0.0",
+  "description": "- https://hub.docker.com/r/sjoerdmulder/teamcity/",
+  "main": "index.js",
+  "scripts": {
+    "start": "opn http://localhost:8111",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2ours/teamcity-compose.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2ours/teamcity-compose/issues"
+  },
+  "homepage": "https://github.com/2ours/teamcity-compose#readme",
+  "devDependencies": {
+    "opn": "^4.0.2"
+  }
+}
